@@ -19,7 +19,6 @@ public class MainThread {
                     }
                 });
 
-
         t1.start();
         System.err.println("Thread run :" + t1.isAlive());
 
